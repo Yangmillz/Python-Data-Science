@@ -1,2 +1,2 @@
 # Python-Data-Science
-Projects from WQU &amp; QuantConnect
+Projects from World Quant University
